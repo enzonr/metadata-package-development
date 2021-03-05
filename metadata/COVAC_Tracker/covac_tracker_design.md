@@ -2,8 +2,6 @@
 
 Last updated: 04.03.2021
 
-DHIS2 Version compatibility:
-
 Link to demo: <https://who.sandbox.dhis2.org/covac_demo>  
 Spreadsheet with Metadata overview: add link
 
